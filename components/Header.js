@@ -48,7 +48,7 @@ function Header() {
 
             </form>
             <Avatar 
-                url = "https://media-exp1.licdn.com/dms/image/C5603AQGcCpalzw4Aeg/profile-displayphoto-shrink_100_100/0/1517581859024?e=1625702400&v=beta&t=6bW9OzLpF1u8wbQVEh39CJAPSw2M1m8V5zzihhMXur8"
+                url = "https://www.chandrakanth.in/static/images/avatar.png"
                 className = "ml-auto" 
             />
             </div>
